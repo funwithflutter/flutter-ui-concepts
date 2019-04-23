@@ -1,16 +1,10 @@
-# book_app
+# Book App UI
 
-A new Flutter project.
+A Flutter Book App UI Concept.
 
-## Getting Started
+## YouTube
 
-This project is a starting point for a Flutter application.
+Check out the [Fun with Flutter](https://www.youtube.com/funwithflutter) YouTube channel for more content:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- [Video - speed design](https://youtu.be/-b6aSjdBDd8)
+- [Inspired by this design](https://dribbble.com/shots/4256473-app-reader)
