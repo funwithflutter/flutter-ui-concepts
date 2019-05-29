@@ -1,0 +1,4 @@
+#Wed May 29 12:57:08 ICT 2019
+base.0=/home/gordon/Documents/fun_with_flutter/code/youtube/pixel/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
